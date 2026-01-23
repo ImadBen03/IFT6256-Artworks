@@ -1,9 +1,12 @@
 
+//Changing the average number of stipes/arcs
 let nbStripes = 12;
-let nbArcs = 2;
-let minSpeed = 0.5;
+let nbArcs = 7;
+
+//Changing the overall movement of the arcs/rings (angles)
+let minSpeed = 1;
 let maxSpeed = 1;
-let angleRandomness = 360;
+let angleRandomness = 1;
 
 
 // Tried using textures, completely failed
