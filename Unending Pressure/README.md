@@ -2,7 +2,7 @@
 
 ## Dataset
 
-This piece uses the Stress Indicators Dataset for Mental Health Classification Dataset, Leveraging the data to showcase the effect of certain factors on students. 
+This piece uses the Stress Indicators Dataset for Mental Health Classification, Leveraging the data to showcase the effect of certain factors on students. 
 
 ## Screenshots
 ![alt text](assets/Confidence.gif)![alt text](assets/Life.gif)![alt text](assets/Death.gif)
